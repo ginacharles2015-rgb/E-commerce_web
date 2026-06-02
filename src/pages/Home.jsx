@@ -66,7 +66,7 @@ const Home = () => {
             transition={{ delay: 0.3 }}
             className="text-xl md:text-2xl text-gray-300 mb-12 font-light"
           >
-            Discover Exquisite Fashion for the Modern Luxury Lifestyle
+            Discover Exquisite Fashion for the Modern Luxury Lifestyle here.
           </motion.p>
 
           {/* CTA Buttons */}
